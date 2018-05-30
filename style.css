@@ -1,0 +1,61 @@
+h1 {
+  color: green;
+}
+body {
+    /* The image used */
+    /*background-image: url("images/island.jpeg");*/
+    background-color: #ab0909e6;
+}
+
+h2 {
+  color: white;
+}
+p {
+
+  color: rgb(155,0,0);
+
+}
+.matrix {
+  color: black;
+}
+
+p span {
+  background-color: black;
+}
+
+.card {
+  background: #121415;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 4px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+}
+
+.container {
+  width: 500px;
+  margin: 30px auto;
+}
+.text-center{
+  text-align: center;
+}
+
+.button-facebook{
+  color: white;
+  padding: 17px;
+  background-color: #3b5998;
+  border-radius: 10px;
+}
+
+#movies:hover {
+ background-image: url('images/thematrix.jpeg');
+
+
+}
+
+#movies {
+ background-color: white;
+}
+
+.searchbar {
+  color: #c0f302;
+}
